@@ -19,7 +19,7 @@ lastUpdated: 2026-09-28
 Copilot CLI 세션에서 다음 프롬프트를 보냅니다.
 
 ```plaintext
-Create a space exploration quiz with 10 questions, a progress bar, score counter, and colorful animated feedback (green for correct, red shake for wrong). Show a results screen with an emoji reaction at the end. Single index.html, no server or dependencies. Accessible, keyboard-navigable, and respects prefers-color-scheme.
+10개 문항, 진행 표시줄, 점수 카운터, 다채로운 애니메이션 피드백(정답이면 초록색, 오답이면 흔들림)을 포함한 우주 탐험 퀴즈를 만듭니다. 끝에 이모지 반응이 표시되는 결과 화면을 보여 줍니다. 단일 index.html로 만들고 서버와 종속성을 사용하지 않습니다. 접근성이 있고 키보드로 탐색할 수 있으며 prefers-color-scheme을 준수합니다.
 ```
 
 1. 제안한 계획을 읽고 파일 변경을 승인합니다.
@@ -30,7 +30,7 @@ Create a space exploration quiz with 10 questions, a progress bar, score counter
 범위를 한정한 요청이 어떻게 작동하는지 확인하기 위해 한 가지에 집중한 개선을 요청합니다.
 
 ```plaintext
-The results screen feels flat. Give it a stronger sense of arrival: animate the score counting up and make the emoji reaction larger. Change nothing else.
+결과 화면이 밋밋합니다. 완결감을 높여 주세요. 점수가 올라가는 애니메이션을 추가하고 이모지 반응을 크게 합니다. 그 외에는 아무것도 변경하지 않습니다.
 ```
 
 1. 브라우저에서 페이지를 새로 고침하고 끝까지 풀어 봅니다.

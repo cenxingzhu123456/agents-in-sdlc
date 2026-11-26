@@ -20,7 +20,7 @@ lastUpdated: 2026-10-05
 다음 프롬프트를 보냅니다.
 
 ```plaintext
-Review the space quiz and suggest three focused feature ideas that could each be completed in a short session. Create a separate GitHub issue for each idea with a clear title, user-focused description, and acceptance criteria. Do not implement them yet.
+짧은 세션으로 각각 완료할 수 있는 집중된 기능 아이디어 3개를 제안하여 Space Quiz를 검토합니다. 각 아이디어마다 명확한 제목, 사용자 중심 설명, 수락 기준을 포함한 별도의 GitHub 이슈를 만듭니다. 아직 구현하지 않습니다.
 ```
 
 **Issues**를 열고 이슈 3개를 검토한 다음, 가치가 명확하고 범위를 감당할 수 있는 이슈 하나를 선택합니다.

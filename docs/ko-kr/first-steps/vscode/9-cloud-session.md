@@ -27,7 +27,7 @@ lastUpdated: 2026-10-05
 2. 새 세션을 시작하고 인수 기준이 명확한 독립적인 기능을 맡깁니다.
 
    ```plaintext
-   Add a theme picker to the space quiz with three named themes: Deep Space, Launch Pad, and Lunar. Persist the choice in localStorage, keep everything in the single index.html with no dependencies, keep contrast accessible in every theme, and open a pull request when the tests pass.
+   세 가지 이름이 있는 테마 Deep Space, Launch Pad, Lunar를 제공하는 테마 선택기를 Space Quiz에 추가합니다. 선택한 테마를 localStorage에 저장하고, 단일 index.html과 종속성 없이 모든 기능을 유지하며, 모든 테마에서 대비를 접근성 기준에 맞게 유지하고, 테스트를 통과하면 풀 리퀘스트를 엽니다.
    ```
 
 3. 노트북을 닫습니다. 작업은 GitHub에서 계속되며 풀 리퀘스트로 전달됩니다.
